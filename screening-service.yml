@@ -1,0 +1,3 @@
+screening:
+  default-duration-minutes: 120
+  schedule-days-ahead: 30

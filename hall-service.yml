@@ -1,0 +1,4 @@
+hall:
+  standard-seat-price: 28.0
+  premium-seat-price: 36.0
+  accessible-seats-enabled: true
