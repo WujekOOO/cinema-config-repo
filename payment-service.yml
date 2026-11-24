@@ -1,3 +1,3 @@
 payment:
-  timeout-seconds: 554
+  timeout-seconds: 200
   refund-allowed: true
