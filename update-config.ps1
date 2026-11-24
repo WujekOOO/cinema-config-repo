@@ -1,5 +1,5 @@
 
-# Przejdź do folderu, w którym znajduje się skrypt
+# Przejdź do folderu, w którym znajduje się skrypt .\update-config.ps1
 Set-Location $PSScriptRoot
 
 # Sprawdź, czy są zmiany do zapisania

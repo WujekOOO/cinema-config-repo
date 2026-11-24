@@ -1,3 +1,3 @@
 reservation:
-  seat-lock-seconds: 120
+  seat-lock-seconds: 167
   max-seats-per-order: 8
